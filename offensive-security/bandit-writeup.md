@@ -3,7 +3,7 @@
 ## Objective
 The Bandit wargame is designed to teach the basics of Linux, command-line usage, and fundamental security concepts through hands-on challenges.
 
-## Levels Covered
+## Levels Covered(Expanding)
 Level 1 → Level 10
 
 ---
