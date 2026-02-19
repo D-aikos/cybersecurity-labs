@@ -1,3 +1,7 @@
 # Network Analysis
 
-This section contains analysis of network traffic using tools like Wireshark.
+This section contains basic network traffic analysis using tools like Wireshark.
+
+## Contents
+
+- (Coming soon)
