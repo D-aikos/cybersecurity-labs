@@ -4,7 +4,7 @@ This repository documents my hands-on learning and practice in cybersecurity, in
 
 ## Areas Covered
 
-- Offensive Security (TryHackMe, CTFs)
+- Offensive Security (Portswigger, CTFs)
 - Network Analysis (Wireshark, Traffic Analysis)
 - Malware Analysis (Static Analysis, Threat Intelligence)
 - Fundamentals (Linux, Networking)
