@@ -1,6 +1,6 @@
 # Cybersecurity Labs
 This repository documents my cybersecurity learning journey as a Cybersecurity student at NFSU, Gandhinagar.
-The goal of this repository is to document hands-on learning through labs, challenges, writeups, projects, and technical exploration across different areas of cybersecurity.
+The goal of this repository is to document hands-on learning through labs, challenges, write-ups, projects, and technical exploration across different areas of cybersecurity.
 
 ## Current Areas of Exploration
 * Offensive Security
@@ -34,12 +34,11 @@ cybersecurity-labs/
 The structure is intentionally simple and designed to grow over time as new labs, projects, platforms, and areas of cybersecurity are explored.
 
 ## Contents
-
 ### PortSwigger Web Security Academy
-Writeups and notes from PortSwigger labs covering web application security concepts and vulnerabilities.
+Write-ups and notes from PortSwigger labs covering web application security concepts and vulnerabilities.
 
 ### OverTheWire
-Writeups and notes from OverTheWire challenges.
+Write-ups and notes from OverTheWire challenges.
 
 ### Projects
 Security-related projects, experiments, tooling, and future research work.
