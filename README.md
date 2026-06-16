@@ -9,6 +9,7 @@ The goal of this repository is to document hands-on learning through labs, chall
 * Linux Fundamentals
 * Networking
 * Security Research
+
 As my interests and skills develop, the focus of this repository may evolve accordingly.
 
 ## Repository Structure
